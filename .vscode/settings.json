@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "C:/src/super_search/linux"
+    "cmake.sourceDirectory": "C:/src/super_search/linux",
+    "dotnet.defaultSolution": "disable"
 }

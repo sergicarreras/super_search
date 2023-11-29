@@ -2,8 +2,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
-import 'package:super_search_2324/screens/search/tile.dart';
-import 'package:super_search_2324/style.dart';
+import 'package:super_search/screens/search/tile.dart';
+import 'package:super_search/style.dart';
 
 class Search extends StatefulWidget {
   const Search({Key? key}) : super(key: key);
