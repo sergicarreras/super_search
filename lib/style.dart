@@ -15,12 +15,12 @@ final appTheme = ThemeData(
   fontFamily: GoogleFonts.outfit().fontFamily,
   // fontFamily: 'Open sans',
   textTheme: TextTheme(
-      headline1: const TextStyle(fontSize: 36.0),
-      headline2: const TextStyle(
+      displayLarge: const TextStyle(fontSize: 36.0),
+      displayMedium: const TextStyle(
           fontSize: 22.0, fontWeight: FontWeight.bold, color: Colors.white),
-      bodyText1: const TextStyle(
+      bodyLarge: const TextStyle(
           fontSize: 26.0, fontWeight: FontWeight.bold, letterSpacing: 1.5),
-      caption: TextStyle(
+      bodySmall: TextStyle(
           fontSize: 18.0,
           fontWeight: FontWeight.bold,
           color: Colors.grey.shade400)),

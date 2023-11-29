@@ -27,7 +27,7 @@ class Tile extends StatelessWidget {
               children: [
                 Text(
                   title.toUpperCase(),
-                  style: Theme.of(context).textTheme.headline2,
+                  style: Theme.of(context).textTheme.displayMedium,
                   textAlign: TextAlign.end,
                 )
               ])),
